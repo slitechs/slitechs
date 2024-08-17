@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my portfolio. Check out my projects!
+Check out [my projects](https://github.com/slitechs/portfolio)!
 
 <!--
 **slitechs/slitechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
